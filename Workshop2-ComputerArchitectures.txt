@@ -1,0 +1,22 @@
+Part I - Moore's Law
+In 1977, 10,000 transistors can fit into 1mm^2 of silicon. In terms of this exercise capacity density doubles every 2 years.
+
+Task 1: How many transistors would fit into the same 1mm^2 area in 1983? 80,000 transistors would fit inside 1mm^2 of silicon due to the years equalling 6 years and its only every 2 when it doubles. 
+
+Task 2: By what factor would the average area per transistor in 1967 differ from that in 1977? These 2 dates are 10 years apart between 1977 back to 1967 the transistor size would get bigger due to less developed technology meaning less transistors in a 1mm^2 area. Meaning only 312 transistors would fit in a 1mm^2 area so the transistors are 0.003205mm^2 each.
+
+Task 3: What would the average size per transistor, in mm^2 be in 1981? It would have 40,000 transistors within the 1mm^2 and each one would be 0.000025mm^2 in size.
+
+
+Part II - Historical Computing Devices
+Abacus
+Task 1: Take the last digits of Student ID as one number and the preceding three digits as a second number. Add the two together using an abacus. 895+690=1585
+
+Task 2: Now subtract the smaller number from the bigger number. 895-690=205
+
+Babbage's Analytical Engine
+Watch a video on this and use the emulator
+
+
+ENIAC Simulation
+Used the java file to computer and work out how to use.
